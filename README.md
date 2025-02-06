@@ -2,6 +2,6 @@
 
 AWS Certified Data Engineer | Tech Enthusiast | Investor and Traveler
 
-- 🔭 I’m currently working on a building a solid data pipeline for Richmond National Insurance.
+- 🔭 I’m currently working on building a scalable and reliable data pipeline for Richmond National Insurance.
 
 
